@@ -1,6 +1,9 @@
 # gnomon
 Detect when your Windows machine is being viewed (potentially covertly) by remote desktop.
 
+![Screenshot](https://github.com/jgdf42/gnomon/raw/main/gnomon.png)
+
+
 🔧 Purpose:
 
 Windows allows remote desktop to be initiated as a "shadow session", preventing the user from being aware that their session is being remotely spied on. This tool protects against that by monitoring for the RdpSa process (related to Remote Desktop Services), logs activity, and performs specific actions when the process is active. 
