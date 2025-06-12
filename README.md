@@ -1,7 +1,7 @@
 # gnomon
 Detect when your Windows machine is being viewed (potentially covertly) by remote desktop.
 
-![Screenshot](https://github.com/jgdf42/gnomon/raw/main/gnomon.png)
+![gnomon](https://github.com/user-attachments/assets/87af998a-5213-4953-9c9c-69b480630d8d)
 
 
 # 🔧 Purpose:
